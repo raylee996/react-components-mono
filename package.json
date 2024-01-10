@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "version": "changeset version",
+    "release": "changeset publish"
   },
   "author": "",
   "license": "ISC",

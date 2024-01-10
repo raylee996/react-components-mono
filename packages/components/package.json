@@ -1,6 +1,6 @@
 {
   "name": "components",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "components",
   "main": "index.js",
   "scripts": {
@@ -49,8 +49,8 @@
     "react-dom": "18"
   },
   "dependencies": {
-    "hooks": "workspace:^0.0.0",
-    "tsconfig": "workspace:^0.0.0",
-    "utils": "workspace:^0.0.0"
+    "hooks": "workspace:^1.0.0",
+    "tsconfig": "workspace:^1.0.0",
+    "utils": "workspace:^1.0.0"
   }
 }
