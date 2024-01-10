@@ -1,0 +1,27 @@
+{
+  "name": "hooks",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/preset-env": "^7.23.3",
+    "@babel/preset-react": "^7.23.3",
+    "@babel/preset-typescript": "^7.23.3",
+    "@testing-library/dom": "^9.3.3",
+    "@testing-library/jest-dom": "^6.1.5",
+    "@testing-library/react": "^14.1.2",
+    "jest-environment-jsdom": "^29.7.0",
+    "react": "18",
+    "react-dom": "18",
+    "tsconfig": "workspace:^0.0.0"
+  },
+  "dependencies": {
+    "utils": "workspace:^0.0.0"
+  }
+}
